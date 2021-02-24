@@ -1,6 +1,6 @@
 # SWGL
 
- ![alt](https://github.com/JakubesP/swgl/blob/main/logo.png?raw=true)
+ ![alt](https://github.com/JakubesP/swgl/blob/main/logo.jpg?raw=true)
  
 #### Simple Web Graphics Library
 
