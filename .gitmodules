@@ -1,0 +1,9 @@
+[submodule "examples/flocking-alg"]
+	path = examples/flocking-alg
+	url = https://github.com/JakubesP/flocking-alg
+[submodule "examples/flocking-alg-with-custom-shader-usage"]
+	path = examples/flocking-alg-with-custom-shader-usage
+	url = https://github.com/JakubesP/flocking-alg-with-custom-shader-usage
+[submodule "examples/flocking-alg-with-textures-usage"]
+	path = examples/flocking-alg-with-textures-usage
+	url = https://github.com/JakubesP/flocking-alg-with-textures-usage
