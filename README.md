@@ -1,6 +1,8 @@
 # SWGL
 
+<p align="center">
  ![alt](https://github.com/JakubesP/swgl/blob/main/logo.jpg?raw=true)
+</p>
  
 #### Simple Web Graphics Library
 
