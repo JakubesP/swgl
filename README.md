@@ -32,3 +32,9 @@ npm i
 npm run start
 ```
 
+## Doc
+
+```sh
+cargo doc --no-deps --open
+```
+
