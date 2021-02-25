@@ -15,7 +15,7 @@ Nearest goals:
 - Easy to use high-level API.
 - More extensive documentation and usage examples. 
 
-Feel free to send me pull requests, comments or bug reports, I'd really appreciate it :)
+Feel free to send me pull requests, comments or bug reports, I'd really appreciate it :smiley:
 
 ## Install and running the examples
 
