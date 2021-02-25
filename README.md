@@ -1,6 +1,8 @@
 # SWGL
 
-  <img align="center" src="https://github.com/JakubesP/swgl/blob/main/logo.jpg?raw=true">
+<p align="center">
+  <img src="https://github.com/JakubesP/swgl/blob/main/logo.jpg?raw=true">
+</p>
  
 #### Simple Web Graphics Library
 
