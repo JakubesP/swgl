@@ -1,7 +1,5 @@
 pub type AppContext = web_sys::WebGl2RenderingContext;
 
-#[macro_use] extern crate random_number;
-
 pub mod camera2d;
 pub mod runtime_error;
 pub mod gl_wrapper;
