@@ -22,7 +22,8 @@ Feel free to send me pull requests, comments or bug reports, I'd really apprecia
 You will need wasm-pack and node & npm
 
 ```sh
-cd examples/[example]
+git clone --recurse-submodules https://github.com/JakubesP/swgl
+cd swgl/examples/[example dir]
 wasm-pack build
 cd www
 npm i
