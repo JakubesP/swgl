@@ -22,6 +22,7 @@ Feel free to send me pull requests, comments or bug reports, I'd really apprecia
 You will need wasm-pack and node & npm
 
 ```sh
+cd examples/[example]
 wasm-pack build
 cd www
 npm i
