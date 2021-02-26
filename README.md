@@ -1,7 +1,7 @@
 # SWGL
 
 <p align="center">
-  <img width="350" src="https://github.com/JakubesP/swgl/blob/main/logo.png?raw=true">
+  <img width="380" src="https://github.com/JakubesP/swgl/blob/main/logo.png?raw=true">
 </p>
  
 #### Simple Web Graphics Library
