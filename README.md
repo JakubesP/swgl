@@ -6,7 +6,7 @@
  
 #### Simple Web Graphics Library
 
-SWGL is a simple library that makes it easy to work with WASM/WebGL and web_sys for the Rust language.
+SWGL is a simple library that makes it easy to work with WASM/WebGL and web_sys for the Rust language. The project was created to learn Rust, WASM and WebGL.
 
 ## Install and running the examples
 
